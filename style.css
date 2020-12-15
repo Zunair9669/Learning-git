@@ -1,0 +1,37 @@
+ div{
+    background-color: rgb(161, 252, 252);
+    max-width: 80%;
+    min-width: 50%;
+    min-height: 300px;
+    max-height: 580px;
+} 
+ .Pak{
+    background-color: rgb(214, 255, 153);
+    box-shadow: 5px 5px 5px 0 silver;
+    max-width: 250px;
+    padding: 10px;
+    border-left:5px solid rgb(255, 0, 0);
+    border-bottom-right-radius :50px ;
+}
+h1{
+    color: purple;
+    text-shadow:5px 5px 2px silver;
+}
+p{
+    text-align: center;
+}
+.Khi{
+    background-color: rgb(214, 255, 153);
+    box-shadow: 5px 5px 5px 0 silver;
+    max-width: 250px;
+    padding: 10px;
+    border-left:5px solid rgb(255, 0, 0);
+    border-bottom-right-radius :50px;
+    margin-top: 20px;
+    position: relative;
+    left: 400px;
+    bottom: 295px;
+}
+
+
+
